@@ -42,9 +42,9 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(0.0444444455, 0, 0.0229226351, 0)
 TextLabel.Size = UDim2.new(0, 247, 0, 67)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "TURK REMOVER"
+TextLabel.Text = "L NEWGENS"
 TextLabel.TextSize = 20.000
-TextLabel.TextColor3 = Color3.fromRGB(237, 114, 184)
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 18)
 TextLabel.TextSize = 51.000
 
 TextLabel_2.Parent = Frame
